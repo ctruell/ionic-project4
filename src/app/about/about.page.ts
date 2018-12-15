@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { AppVersion } from '@ionic-native/app-version;';
+import { AppVersion } from '@ionic-native/app-version';
 
 @Component({
   selector: 'app-about',
